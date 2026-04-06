@@ -1,0 +1,8 @@
+# Data Augmentation — Placas Vehiculares Colombianas
+# Instalar con: pip install -r requirements.txt
+
+albumentations>=1.4.0
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+pillow>=10.2.0
+tqdm>=4.66.0

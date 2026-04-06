@@ -1,0 +1,23 @@
+# Logs
+debug/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos de configuración de IDE
+data/
+*.zip
+
+// pycache
+__pycache__/
+*.pyc
+
+// ignorar dataset
+dataset/
+dataset_plate/
+fotos/
+*.jpg
+fotos2/
